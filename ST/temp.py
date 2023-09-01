@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 import time
 import logindata
 
@@ -10,16 +11,16 @@ time.sleep(2)
 driver.get('http://www.github.com')
 time.sleep(5)
 
-continue_link = driver.find_element_by_link_text('Sign in')
+continue_link = driver.find_element(By.LINK_TEXT, 'Sign in')
 continue_link.click()
 time.sleep(5)
-if driver.find_element_by_name('login'):
+if driver.find_element(By.NAME, 'login'):
     pass
 else:
     time.sleep(5)
-    
-login = driver.find_element_by_name('login')
-password = driver.find_element_by_name("password")
+
+login = driver.find_element(By.NAME, 'login')
+password = driver.find_element(By.NAME, 'password')
 time.sleep(0.5)
     
 login.send_keys(logindata.USERNAME)
@@ -28,6 +29,6 @@ time.sleep(1)
 password.send_keys(logindata.PASSWORD)
 time.sleep(1)
     
-button = driver.find_element_by_name('commit')
+button = driver.find_element(By.NAME, 'commit')
 button.click()
 time.sleep(5)
