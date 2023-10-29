@@ -1,0 +1,6 @@
+2023-10-29T17:08:55.817Z info: Repository 'github-automation-p980' created successfully. [Login demo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:08:55.819Z info: Create repo test 1 passed [Create repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:09:11.910Z info: Repository 'github-automation-p981' created successfully. [Login demo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:09:11.910Z info: Create repo test 2 passed [Create repo test 2] (C:\Users\16san\tests\tests)
+2023-10-29T17:09:19.420Z error: Request error: AxiosError: Request failed with status code 422 [Login demo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:09:19.420Z error: Create repo test 3 failed [Create repo test 3] (C:\Users\16san\tests\tests)
