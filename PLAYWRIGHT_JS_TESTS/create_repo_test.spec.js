@@ -1,7 +1,7 @@
 const { test, expect } = require('@playwright/test');
 const winston = require('winston');
 const axios = require('axios');
-const token = "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";
+const token = "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";
 const { login } = require('./login');
 const repoName1 = "github-automation-p980";
 const repoName2 = "github-automation-p981";
