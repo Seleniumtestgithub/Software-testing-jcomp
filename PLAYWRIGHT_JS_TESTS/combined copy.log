@@ -1,0 +1,148 @@
+2023-10-29T17:08:55.817Z info: Repository 'github-automation-p980' created successfully. [Login demo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:08:55.819Z info: Create repo test 1 passed [Create repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:09:11.910Z info: Repository 'github-automation-p981' created successfully. [Login demo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:09:11.910Z info: Create repo test 2 passed [Create repo test 2] (C:\Users\16san\tests\tests)
+2023-10-29T17:09:19.420Z error: Request error: AxiosError: Request failed with status code 422 [Login demo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:09:19.420Z error: Create repo test 3 failed [Create repo test 3] (C:\Users\16san\tests\tests)
+2023-10-29T17:20:10.747Z error: Request error: AxiosError: Request failed with status code 401 [Login demo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:20:10.749Z error: Private repo test 1 failed [Private repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:21:07.921Z error: Error: Request failed with status code 401 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T17:21:07.923Z error: Error: Request failed with status code 401 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T17:27:01.032Z error: Request error: AxiosError: Request failed with status code 401 [Login demo test] (C:\Users\16san\tests\tests)
+2023-10-29T17:27:01.034Z error: Private repo test 1 failed [Private repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:28:30.047Z error: Request error: AxiosError: Request failed with status code 401 [Login demo test] (C:\Users\16san\tests\tests)
+2023-10-29T17:28:30.049Z error: Private repo test 1 failed [Private repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:31:14.752Z error: Request error: AxiosError: Request failed with status code 401 [Login demo test] (C:\Users\16san\tests\tests)
+2023-10-29T17:31:14.754Z error: Private repo test 1 failed [Private repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:34:55.028Z error: Request error: AxiosError: Request failed with status code 401 [Login demo test] (C:\Users\16san\tests\tests)
+2023-10-29T17:34:55.031Z error: Private repo test 1 failed [Private repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:38:14.511Z error: Private repo test 1 failed [Private repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:40:11.194Z error: Request error: AxiosError: Request failed with status code 401 [Login demo test] (C:\Users\16san\tests\tests)
+2023-10-29T17:40:11.195Z error: Private repo test 1 failed [Private repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:44:32.477Z error: Request error: AxiosError: Request failed with status code 422 [Login demo test] (C:\Users\16san\tests\tests)
+2023-10-29T17:44:32.479Z error: Private repo test 1 failed [Private repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T17:47:25.770Z error: Request error: AxiosError: Request failed with status code 401 [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T17:47:25.772Z error: Login error: AxiosError: Request failed with status code 401 [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T17:57:25.433Z error: Request error: AxiosError: Request failed with status code 401 [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T17:57:25.435Z error: Login error: AxiosError: Request failed with status code 401 [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T17:57:37.880Z error: Request error: AxiosError: Request failed with status code 401 [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T17:57:37.882Z error: Login error: AxiosError: Request failed with status code 401 [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T17:59:22.701Z error: Request error: AxiosError: Request failed with status code 401 [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T17:59:22.703Z error: Login error: AxiosError: Request failed with status code 401 [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T18:00:25.823Z error: Request error: ReferenceError: token is not defined [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T18:00:25.825Z error: Login error: ReferenceError: token is not defined [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T18:00:55.502Z info: Repository data: {"id":711570823,"node_id":"R_kgDOKmm1hw","name":"github-automation-p980","full_name":"Seleniumtestgithub2/github-automation-p980","private":false,"owner":{"login":"Seleniumtestgithub2","id":147347554,"node_id":"U_kgDOCMhYYg","avatar_url":"https://avatars.githubusercontent.com/u/147347554?v=4","gravatar_id":"","url":"https://api.github.com/users/Seleniumtestgithub2","html_url":"https://github.com/Seleniumtestgithub2","followers_url":"https://api.github.com/users/Seleniumtestgithub2/followers","following_url":"https://api.github.com/users/Seleniumtestgithub2/following{/other_user}","gists_url":"https://api.github.com/users/Seleniumtestgithub2/gists{/gist_id}","starred_url":"https://api.github.com/users/Seleniumtestgithub2/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/Seleniumtestgithub2/subscriptions","organizations_url":"https://api.github.com/users/Seleniumtestgithub2/orgs","repos_url":"https://api.github.com/users/Seleniumtestgithub2/repos","events_url":"https://api.github.com/users/Seleniumtestgithub2/events{/privacy}","received_events_url":"https://api.github.com/users/Seleniumtestgithub2/received_events","type":"User","site_admin":false},"html_url":"https://github.com/Seleniumtestgithub2/github-automation-p980","description":null,"fork":false,"url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980","forks_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/forks","keys_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/keys{/key_id}","collaborators_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/collaborators{/collaborator}","teams_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/teams","hooks_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/hooks","issue_events_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/issues/events{/number}","events_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/events","assignees_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/assignees{/user}","branches_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/branches{/branch}","tags_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/tags","blobs_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/git/blobs{/sha}","git_tags_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/git/tags{/sha}","git_refs_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/git/refs{/sha}","trees_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/git/trees{/sha}","statuses_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/statuses/{sha}","languages_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/languages","stargazers_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/stargazers","contributors_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/contributors","subscribers_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/subscribers","subscription_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/subscription","commits_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/commits{/sha}","git_commits_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/git/commits{/sha}","comments_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/comments{/number}","issue_comment_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/issues/comments{/number}","contents_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/contents/{+path}","compare_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/compare/{base}...{head}","merges_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/merges","archive_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/{archive_format}{/ref}","downloads_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/downloads","issues_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/issues{/number}","pulls_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/pulls{/number}","milestones_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/milestones{/number}","notifications_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/notifications{?since,all,participating}","labels_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/labels{/name}","releases_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/releases{/id}","deployments_url":"https://api.github.com/repos/Seleniumtestgithub2/github-automation-p980/deployments","created_at":"2023-10-29T17:08:54Z","updated_at":"2023-10-29T17:55:14Z","pushed_at":"2023-10-29T17:08:54Z","git_url":"git://github.com/Seleniumtestgithub2/github-automation-p980.git","ssh_url":"git@github.com:Seleniumtestgithub2/github-automation-p980.git","clone_url":"https://github.com/Seleniumtestgithub2/github-automation-p980.git","svn_url":"https://github.com/Seleniumtestgithub2/github-automation-p980","homepage":null,"size":0,"stargazers_count":0,"watchers_count":0,"language":null,"has_issues":true,"has_projects":true,"has_downloads":true,"has_wiki":true,"has_pages":false,"has_discussions":false,"forks_count":0,"mirror_url":null,"archived":false,"disabled":false,"open_issues_count":0,"license":null,"allow_forking":true,"is_template":false,"web_commit_signoff_required":false,"topics":[],"visibility":"public","forks":0,"open_issues":0,"watchers":0,"default_branch":"main","permissions":{"admin":true,"maintain":true,"push":true,"triage":true,"pull":true},"temp_clone_token":"","allow_squash_merge":true,"allow_merge_commit":true,"allow_rebase_merge":true,"allow_auto_merge":false,"delete_branch_on_merge":false,"allow_update_branch":false,"use_squash_pr_title_as_default":false,"squash_merge_commit_message":"COMMIT_MESSAGES","squash_merge_commit_title":"COMMIT_OR_PR_TITLE","merge_commit_message":"PR_TITLE","merge_commit_title":"MERGE_MESSAGE","security_and_analysis":{"secret_scanning":{"status":"disabled"},"secret_scanning_push_protection":{"status":"disabled"},"dependabot_security_updates":{"status":"disabled"}},"network_count":0,"subscribers_count":1} [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:00:56.127Z error: Request error: AxiosError: Request failed with status code 422 [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T18:00:56.127Z error: Login error: AxiosError: Request failed with status code 422 [Make repository private] (C:\Users\16san\tests\tests)
+2023-10-29T18:02:39.345Z error: Error: repoName1 is not defined [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:02:39.347Z error: Error: repoName1 is not defined [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:03:02.666Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:03:02.668Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:03:50.540Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:03:50.542Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:07:12.677Z error: Request error: AxiosError: Request failed with status code 404 [Make repo private test 1] (C:\Users\16san\tests\tests)
+2023-10-29T18:07:12.679Z error: Make repo private test 1 failed [Make repo private test 1] (C:\Users\16san\tests\tests)
+2023-10-29T18:07:33.173Z error: Request error: AxiosError: Request failed with status code 404 [Make repo private test 2] (C:\Users\16san\tests\tests)
+2023-10-29T18:07:33.175Z error: Make repo private test 2 failed [Make repo private test 2] (C:\Users\16san\tests\tests)
+2023-10-29T18:07:50.460Z error: Request error: AxiosError: Request failed with status code 404 [Make repo private test 3] (C:\Users\16san\tests\tests)
+2023-10-29T18:07:50.462Z error: Make repo private test 3 failed [Make repo private test 3] (C:\Users\16san\tests\tests)
+2023-10-29T18:18:50.950Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:18:50.952Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:20:12.224Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:20:12.226Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:21:16.003Z error: Error: Request failed with status code 403 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T18:21:16.005Z error: Error: Request failed with status code 403 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T19:06:35.147Z error: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByLabel('Open user account menu')
+Expected: visible
+Received: hidden
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByLabel('Open user account menu')[22m
+ [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T19:07:15.453Z error: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByLabel('Open user account menu')
+Expected: visible
+Received: hidden
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByLabel('Open user account menu')[22m
+ [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T19:08:19.599Z error: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByLabel('Open user account menu')
+Expected: visible
+Received: hidden
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByLabel('Open user account menu')[22m
+ [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T19:26:02.615Z error: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByLabel('Open user account menu')
+Expected: visible
+Received: hidden
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByLabel('Open user account menu')[22m
+ [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T19:39:54.750Z info: Repository 'github-automation-p980' created successfully. [Login demo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T19:39:54.752Z info: Create repo test 1 passed [Create repo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T19:40:09.586Z info: Repository 'github-automation-p981' created successfully. [Login demo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T19:40:09.586Z info: Create repo test 2 passed [Create repo test 2] (C:\Users\16san\tests\tests)
+2023-10-29T19:40:21.887Z error: Request error: AxiosError: Request failed with status code 422 [Login demo test 1] (C:\Users\16san\tests\tests)
+2023-10-29T19:40:21.887Z error: Create repo test 3 failed [Create repo test 3] (C:\Users\16san\tests\tests)
+2023-10-29T19:42:25.994Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T19:42:25.996Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests)
+2023-10-29T20:24:05.461Z info: Repository accessed: github-automation-p980 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T20:24:06.014Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T20:24:06.014Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T20:53:18.583Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T20:53:18.585Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:09:00.743Z error: Error:  [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:09:00.745Z error: Error:  [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:10:14.371Z info: Repository accessed: github-automation-p980 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:10:14.922Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:10:14.923Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:13:31.118Z info: Repository accessed: github-automation-p980 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:13:44.899Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:13:44.899Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:15:00.939Z info: Repository accessed: github-automation-p980 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:15:04.639Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:15:04.639Z error: Error: Request failed with status code 422 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:17:07.688Z info: Repository accessed: github-automation-p980 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:17:32.268Z error: Error: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:17:32.268Z error: Error: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:19:21.866Z error: Error: [31mTimed out 5000ms waiting for [39m[2mexpect([22m[31mlocator[39m[2m).[22mtoBeVisible[2m()[22m
+
+Locator: getByLabel('Change to private')
+Expected: visible
+Received: hidden
+Call log:
+  [2m- expect.toBeVisible with timeout 5000ms[22m
+[2m  - waiting for getByLabel('Change to private')[22m
+ [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:20:15.320Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T21:23:54.584Z error: Error: locator.click: Page closed
+=========================== logs ===========================
+waiting for getByRole('menuitem', { name: 'Change to private' })
+============================================================ [undefined] (C:\Users\16san\tests\tests
+2023-10-29T22:22:12.963Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T22:25:04.729Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T22:25:40.761Z info: Repository visibility changed to public: github-automation-p980 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T22:28:34.844Z error: Error: Test is skipped:  [undefined] (C:\Users\16san\tests\tests
+2023-10-29T22:28:43.055Z error: Error: page.goto: Page closed
+=========================== logs ===========================
+navigating to "https://github.com/login", waiting until "load"
+============================================================ [undefined] (C:\Users\16san\tests\tests
+2023-10-29T22:31:27.226Z error: Error: Request failed with status code 404 [undefined] (C:\Users\16san\tests\tests
+2023-10-29T22:31:53.803Z info: Repository visibility changed to public: github-automation-p980 [undefined] (C:\Users\16san\tests\tests
+2023-10-30T14:23:51.706Z error: Create repo test 1 failed [Create repo test 1] (C:\Users\16san\tests\tests)
+2023-10-30T14:25:04.378Z error: Create repo test 1 failed [Create repo test 1] (C:\Users\16san\tests\tests)
+2023-10-30T14:25:44.684Z error: Create repo test 1 failed [Create repo test 1] (C:\Users\16san\tests\tests)
+2023-10-30T16:19:09.363Z error: Private repo test failed [Private repo test] (C:\Users\16san\tests\tests
+2023-10-30T16:20:24.541Z error: Private repo test failed [Private repo test] (C:\Users\16san\tests\tests
+2023-10-30T16:22:48.833Z error: Private repo test failed [Private repo test] (C:\Users\16san\tests\tests
+2023-10-30T16:24:21.005Z info: Public repo test passed [Public repo test] (C:\Users\16san\tests\tests
