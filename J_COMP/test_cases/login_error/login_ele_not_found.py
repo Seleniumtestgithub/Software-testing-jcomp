@@ -22,7 +22,7 @@ time.sleep(3)
 
 try:
     # Change: body -> ody
-    continue_link = driver.find_element(By.CSS_SELECTOR, 'body > div.logged-out.env-production.page-responsive.header-overlay.home-campaign > div.position-relative.js-header-wrapper > header > div > div.HeaderMenu--logged-out.p-responsive.height-fit.position-lg-relative.d-lg-flex.flex-column.flex-auto.pt-7.pb-4.top-0 > div > div > div.position-relative.mr-lg-3.d-lg-inline-block > a')
+    continue_link = driver.find_element(By.CSS_SELECTOR, 'ody > div.logged-out.env-production.page-responsive.header-overlay.home-campaign > div.position-relative.js-header-wrapper > header > div > div.HeaderMenu--logged-out.p-responsive.height-fit.position-lg-relative.d-lg-flex.flex-column.flex-auto.pt-7.pb-4.top-0 > div > div > div.position-relative.mr-lg-3.d-lg-inline-block > a')
     continue_link.click()
     time.sleep(3)
     if driver.find_element(By.NAME, 'login'):
